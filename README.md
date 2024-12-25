@@ -1,1 +1,1 @@
-# Correlation and Correlation in R
+# Correlation and Regression in R
